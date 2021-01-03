@@ -8,10 +8,10 @@ Firstly, our purpose was to determine the number of successful, failed and cance
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Based on the image ![Theater_Outcomes_vs_Launch](C:\Users\MaazAhmed\Desktop\Data- $10mil\Crowdfunding analysis\resources/Theater_Outcomes_vs_Launch.png) of the outcomes based on launch date line chart, we know that the number of successful campaigns is greater than the failed and canceled campaigns all year long. 
+Based on the image ![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png) of the outcomes based on launch date line chart, we know that the number of successful campaigns is greater than the failed and canceled campaigns all year long. 
 
 ### Analysis of Outcomes Based on Goals
-Based on the image ![Outcomes_vs_Goals](C:\Users\MaazAhmed\Desktop\Data- $10mil\Crowdfunding analysis\resources/Outcomes_vs_Goals.png) of outcomes based on goal line chart, we know that none of the campaigns were canceled. The results are also more clear since it gives a clear % breakdown of successful and failed outcomes.
+Based on the image ![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png) of outcomes based on goal line chart, we know that none of the campaigns were canceled. The results are also more clear since it gives a clear % breakdown of successful and failed outcomes.
 
 ### Challenges and Difficulties Encountered
 Some challenges encountered happened while editing the y-axis for the outcome compared to goals chart. Multiple trys and a youtube video later, I figured out how to change the numbers in Y-axis to %. Moreover, I had to try the countifs formula a few times to get it right for the different coloumns in Deliverable 2. The Hint video for countifs formula was very helpful.
